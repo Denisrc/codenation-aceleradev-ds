@@ -1,0 +1,5 @@
+Pipfile
+Pipfile.lock
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
